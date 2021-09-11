@@ -115,11 +115,11 @@ html {
 .tile {
   font-size: 55px;
 }
-.work-done, p{
+.work-done-1, p{
   padding-top: 3%;
   font-size: 25px;
 }
-.work-done{
+.work-done-1, img{
   max-height: 100%;
   max-width: 100%;
   padding: 8px;
@@ -132,8 +132,7 @@ html {
 #done5,
 #done6,
 #done7,
-#done8,
-#overlay8 {
+#done8 {
   top: -50%;
   left: -0.2%;
   color: black;
