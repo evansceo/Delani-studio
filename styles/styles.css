@@ -23,8 +23,9 @@ html {
   margin: 5px;
 }
 .landing p {
-  font-size: 16px;
+  font-size: 14px;
   padding: 3px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 #log {
   height: 120px;
