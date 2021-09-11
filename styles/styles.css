@@ -68,16 +68,16 @@ html {
   height: 300px;
   background-blend-mode: darken;
 }
-#overlay {
+#done {
   text-align: center;
   padding-top: 3%;
   color: white;
 }
-#overlay h1 {
+#done h1 {
   font-size: 50px;
   font-family: "Lora", serif;
 }
-#overlay p {
+#done p {
   font-size: 20px;
 }
 .heading {

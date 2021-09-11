@@ -30,56 +30,56 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-    $("#work0").mouseover(function () {
+    $("#portfolio-1").mouseover(function () {
         $("#done1").show();
     }).mouseout(function () {
         $("#done1").hide();
     });
 });
 $(document).ready(function () {
-    $("#work1").mouseover(function () {
+    $("#portfolio-2").mouseover(function () {
         $("#done2").show();
     }).mouseout(function () {
         $("#done2").hide();
     });
 });
 $(document).ready(function () {
-    $("#work2").mouseover(function () {
+    $("#portfolio-3").mouseover(function () {
         $("#done3").show();
     }).mouseout(function () {
         $("#done3").hide();
     });
 });
 $(document).ready(function () {
-    $("#work3").mouseover(function () {
+    $("#portfolio-4").mouseover(function () {
         $("#done4").show();
     }).mouseout(function () {
         $("#done4").hide();
     });
 });
 $(document).ready(function () {
-    $("#work4").mouseover(function () {
+    $("#portfolio-5").mouseover(function () {
         $("#done5").show();
     }).mouseout(function () {
         $("#done5").hide();
     });
 });
 $(document).ready(function () {
-    $("#work5").mouseover(function () {
+    $("#portfolio-6").mouseover(function () {
         $("#done6").show();
     }).mouseout(function () {
         $("#done6").hide();
     });
 });
 $(document).ready(function () {
-    $("#work6").mouseover(function () {
+    $("#portfolio-7").mouseover(function () {
         $("#done7").show();
     }).mouseout(function () {
         $("#done7").hide();
     });
 });
 $(document).ready(function () {
-    $("#work7").mouseover(function () {
+    $("#portfolio-8").mouseover(function () {
         $("#done8").show();
     }).mouseout(function () {
         $("#done8").hide();
