@@ -172,6 +172,9 @@ html {
   left: 50%;
   text-align: center;
 }
+.form-control{
+margin: 10px;
+}
 #comment {
   color: white;
   font-size: 20px;
