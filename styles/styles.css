@@ -113,7 +113,6 @@ html {
   text-align: center;
   display: initial;
   padding: 0px;
-  margin: 70px;
 }
 .portfolio h2 {
   font-size: 40px;
@@ -130,6 +129,12 @@ html {
   max-height: 100%;
   max-width: 100%;
   padding: 8px;
+}
+#portfolio-row{
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+  margin-left: 180px;
 }
 
 #done1,
