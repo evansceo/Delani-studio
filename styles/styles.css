@@ -13,15 +13,17 @@ html {
   padding-top: 5%;
   color: white;
   height: 650px;
+  padding: 160px;
+  height: 700px;
   
 }
 .landing h1 {
-  font-size: 50px;
+  font-size: 40px;
   padding: 3px;
   margin: 5px;
 }
 .landing p {
-  font-size: 20px;
+  font-size: 16px;
   padding: 3px;
 }
 #log {
@@ -53,13 +55,15 @@ html {
 #about-us {
   text-align: center;
   align-items: center;
+  height: 400px;
+  padding: 50px;
 }
 #about-us p {
-  font-size: 20px;
+  font-size: 18px;
 }
 #about {
   font-family: "Lora", serif;
-  font-size: 55px;
+  font-size: 40px;
 }
 .services {
   background: rgba(0, 0, 0, 0.6) url("../assets/backgrounds/s_image.jpg");
@@ -74,7 +78,7 @@ html {
   color: white;
 }
 #done h1 {
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Lora", serif;
 }
 #done p {
@@ -82,8 +86,8 @@ html {
 }
 .heading {
   text-align: center;
-  font-family: "Abril Fatface", cursive;
-  font-size: 55px;
+  font-family: "Lora", serif;
+  font-size: 40px;
   
 }
 .title {
@@ -108,16 +112,19 @@ html {
   font-family: "Courgette", cursive;
   text-align: center;
   display: initial;
+  padding: 0px;
+  margin: 70px;
 }
 .portfolio h2 {
-  font-size: 55px;
+  font-size: 40px;
+  font-family: "Lora", serif;
 }
 .tile {
   font-size: 55px;
 }
 .work-done-1, p{
   padding-top: 3%;
-  font-size: 25px;
+  font-size: 15px;
 }
 .work-done-1, img{
   max-height: 100%;
@@ -149,14 +156,14 @@ html {
   text-align: center;
   background-size: cover;
   margin-bottom: 50px;
-  padding-top: 10px;
+  padding: 90px;
   width: 100%;
   max-width: 100%;
-  margin-top: 8%;
+  
 }
 .contact h2 {
   font-size: 55px;
-  font-family: "Courgette", cursive;
+  font-family: "Lora", serif;
   color: white;
 }
 #form {
@@ -185,7 +192,7 @@ input[type="text"] {
   font-family: serif;
   background: transparent;
 }
-#social{
+#social-media{
   text-align: center;
 }
 #social img{
