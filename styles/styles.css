@@ -201,6 +201,16 @@ input[type="text"] {
   font-family: serif;
   background: transparent;
 }
+#arrow-up{
+display: flex;
+flex-direction: column ;
+align-items: center;
+margin-bottom: 70px;
+}
+#arrow{
+  width: 50px;
+  animation: bounce 2s infinite;
+}
 #social-media{
   text-align: center;
 }
