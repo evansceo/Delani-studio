@@ -115,24 +115,24 @@ html {
 .tile {
   font-size: 55px;
 }
-
-.col-md-3 p {
+.work-done, p{
   padding-top: 3%;
   font-size: 25px;
 }
-.col-md-3 img {
+.work-done{
   max-height: 100%;
   max-width: 100%;
   padding: 8px;
 }
-#overlay0,
-#overlay1,
-#overlay2,
-#overlay3,
-#overlay4,
-#overlay5,
-#overlay6,
-#overlay7,
+
+#done1,
+#done2,
+#done3,
+#done4,
+#done5,
+#done6,
+#done7,
+#done8,
 #overlay8 {
   top: -50%;
   left: -0.2%;
