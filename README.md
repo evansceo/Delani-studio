@@ -38,7 +38,7 @@ How contact section works:
 5. BootStrap
 6. jQuery
 ### Live site
-View site ()
+View site (https://evansceo.github.io/Delani-studio/)
 ### Contacts
 |Phone: |+254712234913|
 |Email: |evansville09@gmail.com|
